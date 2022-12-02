@@ -7,7 +7,7 @@
     --Grayish-Blue: hsl(218, 22%, 67%);
 
     --body-bg: var(--Grayish-Blue);
-    --col1-bg: var(--Light-Gray);
+    --col1-bg: #fff;
     --col2-bg: var(--Cyan);
     --col3-bg: var(--Light-Cyan);
 
