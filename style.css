@@ -128,7 +128,7 @@ main {
         grid-template-columns: auto auto;
     }
     .container {
-        padding: 2rem;
+        padding: 1.5rem;
     }
     .col-1 {
         grid-column: 1/3;
